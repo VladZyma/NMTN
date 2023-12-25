@@ -1,0 +1,48 @@
+@font-face {
+  font-family: "Gilroy-Medium";
+  font-weight: 500;
+  font-style: normal;
+  src: local("Gilroy-Medium"),
+    url("../fonts/Gilroy-Medium.woff2") format("woff2"),
+    url("../fonts/Gilroy-Medium.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gilroy-Bold";
+  font-weight: 700;
+  font-style: normal;
+  src: local("Gilroy-Bold"), url("../fonts/Gilroy-Bold.woff2") format("woff2"),
+    url("../fonts/Gilroy-Bold.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gilroy-ExtraBold";
+  font-weight: 800;
+  font-style: normal;
+  src: local("Gilroy-ExtraBold"),
+    url("../fonts/Gilroy-ExtraBold.woff2") format("woff2"),
+    url("../fonts/Gilroy-ExtraBold.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PlayfairDisplay-SemiBold";
+  font-weight: 600;
+  font-style: normal;
+  src: local("PlayfairDisplay-SemiBold"),
+    url("../fonts/PlayfairDisplay-SemiBold.woff2") format("woff2"),
+    url("../fonts/PlayfairDisplay-SemiBold.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PlayfairDisplay-Bold";
+  font-weight: 700;
+  font-style: normal;
+  src: local("PlayfairDisplay-Bold"),
+    url("../fonts/PlayfairDisplay-Bold.woff2") format("woff2"),
+    url("../fonts/PlayfairDisplay-Bold.woff") format("woff");
+  font-display: swap;
+}
